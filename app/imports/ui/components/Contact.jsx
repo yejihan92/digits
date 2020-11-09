@@ -37,7 +37,6 @@ class Contact extends React.Component {
     );
   }
 }
-
 /** Require a document to be passed to this component. */
 Contact.propTypes = {
   contact: PropTypes.object.isRequired,
