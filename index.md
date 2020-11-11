@@ -90,8 +90,14 @@ Admin screen
 
 <img src="doc/addContact.png">
 
+<img src="doc/addContact2.png">
+
 ### List Contacts
 
-<img src="doc/addContact.png">
+The list of screens that have successfully completed additional work is provided as follows.
+
+<img src="doc/listContact.png">
+
+Now users can add notes to their contacts or edit any information when information changes.
 
 
