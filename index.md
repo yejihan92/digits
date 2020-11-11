@@ -2,7 +2,7 @@
 
 <img src="doc/landing.png">
 
-This is the first landing page that appears when you first open the site. Before signing up or logging in, the user has no privileges.
+This is the first landing page that appears when users first open the site. Before signing up or logging in, the user has no privileges.
 
 Digits is an application that offers users to:
 
@@ -57,7 +57,7 @@ I20180227-13:33:02.744(-10)?   Adding: Boogie Board (admin@foo.com)
 => App running at: http://localhost:3000/
 ```
 
-Now you are ready to use all the features of digits.
+Now users are ready to use all the features of digits.
 
 ### Landing Page
 
